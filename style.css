@@ -1,0 +1,30 @@
+html {
+    font-size: 24px;
+}
+
+ul {
+    margin-bottom: 50px;
+}
+
+.em-block li {
+    background: rgb(65, 82, 85);
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.em-inline li {
+    display: inline;
+    background: rgb(100, 50, 50);
+    color: aliceblue;
+}
+
+.em-inline-e-block li {
+    display: inline-block;
+    background: rgb(90, 200, 50);
+    width: 100px;
+    height: 100px;
+}
+
+.esconder {
+    display: none;
+}
